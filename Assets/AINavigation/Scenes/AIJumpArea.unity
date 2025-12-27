@@ -2106,6 +2106,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_2x5 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3902575034290934101, guid: 3adaf090639f98340bd67863c8d023b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4423497996575460335, guid: 3adaf090639f98340bd67863c8d023b8, type: 3}
       propertyPath: m_LocalScale.x
       value: 10
